@@ -40,18 +40,20 @@
     "url": "https://badung.epuskesmas.id",
     "icon": "https://icons.duckduckgo.com/ip3/badung.epuskesmas.id.ico",
     "slug": "badung",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 2029,
     "timeDay": 2029,
     "timeWeek": 2029,
     "timeMonth": 2029,
     "timeYear": 2029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "Pasuruan",
