@@ -3,14 +3,14 @@ owner: ekalaya2015 # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Malang
+    url: https://malang.epuskesmas.id
+  - name: Klaten
+    url: https://klaten.epuskesmas.id
+  - name: Badung
+    url: https://badung.epuskesmas.id
+  - name: Pasuruan
+    url: https://pasuruan.epuskesmas.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
